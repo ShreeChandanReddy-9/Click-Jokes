@@ -24,7 +24,7 @@
 
 - Clone the Repository with:  
 ```bash 
-git clone https://github.com/ShreeChandanReddy-9/Myntra-HackerRamp
+git clone https://github.com/ShreeChandanReddy-9/Click-Jokes
 ```
 Once you have the code:
 
